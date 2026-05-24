@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Blindspot Journal"
+  short_description: "Capture evidence-based knowledge gaps from active threads"
+  default_prompt: "Use $knowledge-blindspot-journal in review mode to screen candidate blindspots first, or in strict mode to draft the final markdown archive directly."
